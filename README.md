@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sivador
+- 👀 I’m interested in Geophysics or software development.
+- 🌱 I’m currently learning software development, Ruby, C#.
